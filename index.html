@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>ONDO 온도 Seoul</title>
+<meta name="description" content="ONDO 온도 — Seoul fashion for 17 to 25. FW26 Seoul after dark.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400;0,6..96,600;1,6..96,400;1,6..96,500&family=DM+Mono:wght@400;500&family=Noto+Sans+KR:wght@300;400;500;700&family=Noto+Serif+KR:wght@700;900&display=swap">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="announce"><div class="wrap"><span>무료배송 Free shipping over ₩100,000</span><span>FW26 Collection · 늦은 밤의 서울</span><span>Seongsu flagship open till 22:00</span></div></div>
+
+<header class="site">
+  <div class="wrap hrow">
+    <div class="hleft">
+      <button class="menubtn" data-act="menu" aria-label="Open menu"><svg viewBox="0 0 24 24"><path d="M3 7h18M3 12h18M3 17h12"/></svg></button>
+      <a href="#products">Shop all</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </div>
+    <a class="logo" href="#home" aria-label="ONDO home"><b>ONDO</b><i>온도</i></a>
+    <div class="hright">
+      <a class="hide-m" href="#new-arrivals">New in</a>
+      <a class="bagbtn" href="#cart" aria-label="Shopping bag"><svg class="icon" viewBox="0 0 24 24"><path d="M5 8h14l-1 12H6L5 8Z"/><path d="M9 8V6a3 3 0 0 1 6 0v2"/></svg><span class="hide-m">Bag</span><span class="bagcount" id="bagcount">0</span></a>
+    </div>
+  </div>
+  <nav class="cats" aria-label="Categories"><div class="wrap" id="catnav"></div></nav>
+</header>
+
+<div class="drawer" id="drawer" hidden>
+  <div class="scrim" data-act="menu-close"></div>
+  <div class="sheet" id="drawersheet"></div>
+</div>
+
+<main id="app"></main>
+
+<footer class="site">
+  <div class="wrap">
+    <div class="fgrid">
+      <div class="fbrand"><b>ONDO</b><p>온도 — clothes tuned to the temperature of the city. Designed in Seongsu-dong, Seoul. Made in small runs.</p></div>
+      <div><h5>Shop</h5><a href="#new-arrivals">New arrivals</a><a href="#trending">Trending</a><a href="#best-sellers">Best sellers</a><a href="#women">Women</a><a href="#unisex">Unisex</a></div>
+      <div><h5>Categories</h5><a href="#jewelry">Jewelry</a><a href="#accessories">Accessories</a><a href="#footwear">Footwear</a><a href="#bags-wallets">Bags &amp; wallets</a><a href="#products">Shop all</a></div>
+      <div><h5>Help</h5><a href="#contact">Contact &amp; stores</a><a href="#about">About ONDO</a><a href="#cart">Your bag</a><a href="#contact">Shipping &amp; returns</a></div>
+    </div>
+    <div class="flegal">
+      <div>(주)온도스튜디오 ONDO Studio Inc. · 대표 [Name] · 사업자등록번호 000-00-00000 · 통신판매업신고 [placeholder]<br>서울특별시 성동구 성수동 · CS 평일 10:00–18:00</div>
+      <div style="display:flex;gap:12px;align-items:center"><button class="themebtn" data-act="theme" id="themebtn">Theme: system</button><span>© 2026 ONDO</span></div>
+    </div>
+  </div>
+</footer>
+
+<div class="toast" id="toast" hidden></div>
+
+<script src="js/data.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

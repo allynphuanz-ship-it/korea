@@ -1,0 +1,64 @@
+ONDO image checklist — drop files into these paths (jpg).
+Recommended: portrait 4:5, at least 1200 x 1500 px, under 400 KB each.
+
+HOME / PAGES
+  images/hero/hero.jpg                 hero campaign photo (portrait, ~1200x1400)
+  images/home/jewelry-feature.jpg      square, ~1200x1200
+  images/about/story.jpg               square, ~1200x1200
+
+CATEGORY TILES (3:4)
+  images/categories/women.jpg
+  images/categories/unisex.jpg
+  images/categories/jewelry.jpg
+  images/categories/accessories.jpg
+  images/categories/footwear.jpg
+  images/categories/bags-wallets.jpg
+
+LOOKBOOK (portrait)
+  images/looks/euljiro.jpg
+  images/looks/hannam.jpg
+  images/looks/seongsu.jpg
+
+PRODUCTS (4:5)  main = pXX.jpg | extra gallery = pXX-2.jpg, pXX-3.jpg | per colour = pXX-<colour>.jpg (optional)
+  images/products/p01.jpg   Midnight Seongsu Hoodie  [unisex]  colours: black, grey, cobalt
+  images/products/p02.jpg   Han River Track Jacket  [unisex]  colours: cobalt, black, navy
+  images/products/p03.jpg   17° Oversized Logo Tee  [unisex]  colours: white, black, grey
+  images/products/p04.jpg   Wide Cargo Pants  [unisex]  colours: grey, black, oat
+  images/products/p05.jpg   Cable Knit Vest  [unisex]  colours: oat, grey, navy
+  images/products/p06.jpg   Parachute Pants  [unisex]  colours: black, sky, grey
+  images/products/p07.jpg   Boxy Varsity Jacket  [unisex]  colours: navy, black, cherry
+  images/products/p08.jpg   Washed Graphic Tee  [unisex]  colours: grey, black
+  images/products/p09.jpg   Pleated Mini Skirt  [women]  colours: charcoal, black, grey
+  images/products/p10.jpg   Ribbon Slip Dress  [women]  colours: pink, black, ivory
+  images/products/p11.jpg   Cropped Cardigan  [women]  colours: lilac, ivory, black
+  images/products/p12.jpg   Satin Midi Skirt  [women]  colours: champagne, black
+  images/products/p13.jpg   Ribbon Baby Tee  [women]  colours: white, pink, black
+  images/products/p14.jpg   Tweed Mini Jacket  [women]  colours: ivory, black, pink
+  images/products/p15.jpg   Knit Halter Dress  [women]  colours: black, oat
+  images/products/p16.jpg   Low-rise Flare Jeans  [women]  colours: denim, black
+  images/products/p17.jpg   Silver Heart Ring  [jewelry]  colours: silver, gold
+  images/products/p18.jpg   Pearl Choker  [jewelry]  colours: pearl
+  images/products/p19.jpg   Chunky Hoop Earrings  [jewelry]  colours: silver, gold
+  images/products/p20.jpg   Star Pendant Necklace  [jewelry]  colours: silver, gold
+  images/products/p21.jpg   Signet Ring 17  [jewelry]  colours: silver, gold
+  images/products/p22.jpg   Link Bracelet  [jewelry]  colours: silver, gold
+  images/products/p23.jpg   Twin Drop Earrings  [jewelry]  colours: gold, silver
+  images/products/p24.jpg   Washed Ball Cap  [accessories]  colours: cobalt, black, oat
+  images/products/p25.jpg   Cat-eye Sunglasses  [accessories]  colours: black, cherry
+  images/products/p26.jpg   Mohair Scarf  [accessories]  colours: grey, lilac, cherry
+  images/products/p27.jpg   Skinny Leather Belt  [accessories]  colours: black, brown
+  images/products/p28.jpg   Ribbed Knit Beanie  [accessories]  colours: grey, cobalt, black
+  images/products/p29.jpg   Oval Shield Shades  [accessories]  colours: silver, black
+  images/products/p30.jpg   Platform Court Sneaker  [footwear]  colours: white, black
+  images/products/p31.jpg   Chunky Runner 26  [footwear]  colours: grey, silver, black
+  images/products/p32.jpg   Square-toe Loafer  [footwear]  colours: black, brown
+  images/products/p33.jpg   Lace-up Combat Boot  [footwear]  colours: black
+  images/products/p34.jpg   Ballet Mary Jane  [footwear]  colours: cherry, black, ivory
+  images/products/p35.jpg   Suede Low Sneaker  [footwear]  colours: brown, grey
+  images/products/p36.jpg   Nylon Shoulder Bag  [bags]  colours: black, silver, cobalt
+  images/products/p37.jpg   Mini Tote 온도  [bags]  colours: ivory, black
+  images/products/p38.jpg   Puffer Crossbody  [bags]  colours: silver, black, lilac
+  images/products/p39.jpg   Compact Bifold Wallet  [bags]  colours: black, cherry
+  images/products/p40.jpg   Slim Card Holder  [bags]  colours: cobalt, black, pink
+  images/products/p41.jpg   Canvas Big Tote  [bags]  colours: oat, black
+  images/products/p42.jpg   Ruched Hobo Bag  [bags]  colours: cherry, black, brown
